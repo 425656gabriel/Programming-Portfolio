@@ -23,6 +23,8 @@ Detailed description:
 * [MacOS](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/macos-aarch64)
 * [SourceCode](https://github.com/425656gabriel/portfolioB2/tree/main/src)
 
+[Link to Repo]()
+
 ### Bouncing Balls
 
 Detailed description:
@@ -46,3 +48,5 @@ Detailed description:
 
 ### Running Digipets
 ![RunningDigipets](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Digipets.png)
+
+[Link to Repo](https://github.com/jamromney/Group-1)
