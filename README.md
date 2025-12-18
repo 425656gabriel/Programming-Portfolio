@@ -45,4 +45,4 @@ Detailed description:
 * Screens
 
 ### Running Digipets
-![RunningDigipets](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Bouncing%20Balls.png)
+![RunningDigipets](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Digipets.png)
