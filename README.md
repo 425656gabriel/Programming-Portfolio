@@ -22,3 +22,14 @@ Detailed description:
 * [Windows](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/windows-amd64)
 * [MacOS](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/macos-aarch64)
 * [SourceCode](https://github.com/425656gabriel/portfolioB2/tree/main/src)
+
+### Bouncing Balls
+
+Detailed description:
+* 250x250px
+* Random colors
+* Light weight
+* Add more by clicking on the background
+
+### Running Bouncing Balls
+![RunningBouncingBalls](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/calculator.png) 
