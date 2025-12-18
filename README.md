@@ -32,4 +32,17 @@ Detailed description:
 * Add more by clicking on the background
 
 ### Running Bouncing Balls
-![RunningBouncingBalls](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Bouncing%20Balls.png) 
+![RunningBouncingBalls](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Bouncing%20Balls.png)
+
+## Term 2 Projects
+
+### Digipets
+
+Detailed description:
+* 600x600px
+* Pet Simulator
+* Mouse interactive
+* Screens
+
+### Running Digipets
+![RunningDigipets](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Bouncing%20Balls.png)
