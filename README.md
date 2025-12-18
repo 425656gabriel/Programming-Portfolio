@@ -32,4 +32,4 @@ Detailed description:
 * Add more by clicking on the background
 
 ### Running Bouncing Balls
-![RunningBouncingBalls](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/calculator.png) 
+![RunningBouncingBalls](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/Bouncing%20Balls.png) 
