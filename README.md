@@ -17,7 +17,7 @@ Detailed description:
 ![UML](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/calcUML.jpg)
 
 ### Running Calculator
-![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calculator.png)
+![RunningCalculator](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/calculator.png)
 
 * [Windows](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/windows-amd64)
 * [MacOS](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/macos-aarch64)
