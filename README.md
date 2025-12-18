@@ -14,7 +14,7 @@ Detailed description:
 * Only-mouse functional
 
 ### Calculator UML
-![UML](https://github.com/425656gabriel/portfolioB2/blob/main/images/calcUML.jpg)
+![UML](https://github.com/425656gabriel/Programming-Portfolio/blob/main/Images/calcUML.jpg)
 
 ### Running Calculator
 ![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calculator.png)
